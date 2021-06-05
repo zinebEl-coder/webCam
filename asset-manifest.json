@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/webCam/static/css/main.f6876f55.chunk.css",
+    "main.js": "/webCam/static/js/main.7bf9633e.chunk.js",
+    "main.js.map": "/webCam/static/js/main.7bf9633e.chunk.js.map",
+    "runtime-main.js": "/webCam/static/js/runtime-main.676094be.js",
+    "runtime-main.js.map": "/webCam/static/js/runtime-main.676094be.js.map",
+    "static/js/2.891f736b.chunk.js": "/webCam/static/js/2.891f736b.chunk.js",
+    "static/js/2.891f736b.chunk.js.map": "/webCam/static/js/2.891f736b.chunk.js.map",
+    "static/js/3.8e62256a.chunk.js": "/webCam/static/js/3.8e62256a.chunk.js",
+    "static/js/3.8e62256a.chunk.js.map": "/webCam/static/js/3.8e62256a.chunk.js.map",
+    "index.html": "/webCam/index.html",
+    "static/css/main.f6876f55.chunk.css.map": "/webCam/static/css/main.f6876f55.chunk.css.map",
+    "static/js/2.891f736b.chunk.js.LICENSE.txt": "/webCam/static/js/2.891f736b.chunk.js.LICENSE.txt",
+    "static/media/Adria-logo.94b4bae1.png": "/webCam/static/media/Adria-logo.94b4bae1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.676094be.js",
+    "static/js/2.891f736b.chunk.js",
+    "static/css/main.f6876f55.chunk.css",
+    "static/js/main.7bf9633e.chunk.js"
+  ]
+}
